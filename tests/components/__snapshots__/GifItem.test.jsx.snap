@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Prueba del componente ---> GifItem Debe recibir los parametros "url" y "title" 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="Prueba"
+      src="http://sitema/prueba/imagen.jpg"
+    />
+    <p>
+      Prueba
+    </p>
+  </div>
+</div>
+`;
